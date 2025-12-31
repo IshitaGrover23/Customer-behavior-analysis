@@ -83,15 +83,14 @@ The Power BI dashboard provides:
 ## 🚀 How to Use
 1. Review SQL queries to understand data extraction logic
 2. Run the Python notebook for data cleaning and analysis
-3. Explore the Excel-based insights (if applicable)
-4. Open the Power BI dashboard for interactive exploration
-5. Refer to the business report and presentation for summarized insights
+3. Open the Power BI dashboard for interactive exploration
+4. Refer to the business report and presentation for summarized insights
 
 ---
 
 ## 🎯 Use Cases
 - Data Analyst / Business Intelligence portfolio project
-- Demonstration of SQL, Python, Excel, and Power BI skills
+- Demonstration of SQL, Python, and Power BI skills
 - Customer behavior and segmentation analysis
 - Business-focused dashboarding and reporting
 
