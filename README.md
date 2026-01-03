@@ -1,6 +1,7 @@
 # Customer Behavior Analytics
 
-Live Dashboard - https://app.powerbi.com/view?r=eyJrIjoiYTAyZWMzNDUtYjVjYy00YjhlLWI5ZTItZWY5ZDlmYzJmNmExIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+🔗 **Live Power BI Dashboard:**  
+👉 https://app.powerbi.com/view?r=eyJrIjoiYTAyZWMzNDUtYjVjYy00YjhlLWI5ZTItZWY5ZDlmYzJmNmExIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## 📌 Project Overview
 This project is an **end-to-end customer behavior analytics solution** built to demonstrate core **Data Analyst skills** including data cleaning, querying, analysis, visualization, and business storytelling.
