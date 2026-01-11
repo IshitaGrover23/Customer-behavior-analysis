@@ -15,7 +15,6 @@ The project is **portfolio-ready** and aligned with the responsibilities of a **
 ## 🧰 Tech Stack
 - **Python** – Data cleaning, preprocessing, and exploratory data analysis (EDA)
 - **SQL** – Data extraction, joins, aggregations, and analytical queries
-- **Excel** – Data validation, pivot analysis, and intermediate calculations
 - **Power BI** – Interactive dashboards and KPI visualizations
 - **PowerPoint** – Executive-level insight presentation
 - **Business Report (PDF)** – Structured insights and recommendations
